@@ -83,7 +83,6 @@ main {
 }
 
 #navbar ul li a {
-	float: left;
 	display: inline-block;
 	margin: 1rem;
 	outline: none;
